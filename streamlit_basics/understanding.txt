@@ -1,0 +1,4 @@
+1. Streamlit is a very simple framework which needs python declarative codes.
+2. The python codes is of two types imperative codes and declarative codes.
+3. yaml, toml are the declarative code types which says what is needed or what we need. So here we declare what we want.
+4. Streamlit doesn't need html, css, js script to run. It runs on pure python.
